@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7014
     wikipedia: http://en.wikipedia.org/wiki/Mary_Platt_Parmele
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34072#The-Evolution-of-an-Empire--A-Brief-Historical-Sketch-of-Germany
 gutenberg_issued: '2010-10-15'
 gutenberg_type: Text
 identifiers:
